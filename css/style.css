@@ -4,7 +4,11 @@
 .link {
 	color: green;
 }
-.link:hover {
+.link-descr {
+	visibility: hidden;
+}
+.link:hover > .link-descr {
+	visibility: visible;
 }
 
 .forever {
