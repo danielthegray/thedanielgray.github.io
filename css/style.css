@@ -1,0 +1,12 @@
+.header {
+	font-family: monospace;
+}
+.link {
+	color: green;
+}
+.link:hover {
+}
+
+.forever {
+	overflow:hidden;
+}
