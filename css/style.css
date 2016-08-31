@@ -14,5 +14,6 @@
 }
 
 .forever {
+	display:block;
 	overflow:hidden;
 }
