@@ -3,6 +3,8 @@
 }
 .link {
 	color: green;
+	float: left;
+	text-decoration:none;
 }
 .link-descr {
 	visibility: hidden;
