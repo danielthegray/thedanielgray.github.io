@@ -1,5 +1,6 @@
 .header {
 	font-family: monospace;
+	width: 100%;
 }
 .link {
 	color: green;
@@ -13,7 +14,10 @@
 	visibility: visible;
 }
 
-.forever {
+.horiz-eq {
 	display:block;
-	overflow:hidden;
+	background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' version='1.1' height='10pt' width='5pt'><text x='0' y='10' fill='black' font-size='10'>=</text></svg>");
+	background-repeat: repeat-x;
+	height:10pt;
+	width: 100%;
 }
