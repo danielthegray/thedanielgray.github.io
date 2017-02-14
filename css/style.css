@@ -1,6 +1,10 @@
 .header {
 	font-family: monospace;
 	width: 100%;
+	text-align: center;
+}
+.main-title {
+	width: 100%;
 }
 .link {
 	color: green;
