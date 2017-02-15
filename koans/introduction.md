@@ -2,8 +2,7 @@
 layout: default
 ---
 ## Introducción del editor
-### (tomado de http://catb.org/esr/writings/unix-koans/introduction.html)
-#### (traducido 2017-02-15)
+_(tomado de <http://catb.org/esr/writings/unix-koans/introduction.html> y traducido el día 2017-02-15)_
 El descubrimiento de la colección de _koans_ conocida como _Rootless
 Root_, aparentemente preservada por décadas en el elevado y seco aire de las
 Montañas Occidentales, ha encendido mucha controversia en los círculos eruditos.
