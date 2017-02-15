@@ -2,7 +2,7 @@
 layout: default
 ---
 <h2>Los koans de Master Foo</h2>
-El descubrimiento de la colección de <em>koans</em> conocido como <em>Rootless
+El descubrimiento de la colección de <em>koans</em> conocida como <em>Rootless
 Root</em>, aparentemente preservada por décadas en el elevado y seco aire de las
 Montañas Occidentales, ha encendido mucha controversia en los círculos eruditos.
 Son documentos auténticos que alumbran con una nueva luz la enseñanza de los
@@ -12,10 +12,11 @@ Thompson, Ritchie, y McIlroy para predicar doctrinas que evolucionaron más cerc
 a nuestra era?
 
 Es imposible decirlo con certeza. Todas las partes en conflicto han hecho mucho
-énfasis en una supuesta similaridad con el venerable clásico, el Tao de la
-Programación[1]. Pero <em>Rootless Root</em> es bastante diferente tanto en tono
-como en estilo, de las anécdotas holgadas y poéticas de la traducción James,
-enfocada como está en la notable y enigmática figure de Master Foo.
+énfasis en una supuesta similaridad con el venerable clásico, el [Tao de la
+Programación](http://www.canonical.org/~kragen/tao-of-programming.html). Pero
+<em>Rootless Root</em> es bastante diferente tanto en tono como en estilo, de
+las anécdotas holgadas y poéticas de la traducción James, enfocada como está en
+la notable y enigmática figura de Master Foo.
 
 Una obra más reciente, el <em>Unix Power Classic</em>[2], traduce el Tao Te
 Ching en un estilo similar al de <em>Rootless Root</em>. <em>Unix Power
@@ -36,8 +37,9 @@ las referencias a <em>Nine Inch Nails</em> han puesto en duda su antiguedad y
 por ende es improbable que hayan influenciado a <em>Rootless Root</em>.
 
 Podemos decir con buen grado de confianza que el título de la obra estaba
-pensada como una referencia al clásico Zen <em>Gateless Gate</em>[6] (Puerta
-Sin Puerta) de Mumon. Hay muchos ecos de Mumon en varios de los koans.
+pensada como una referencia al clásico Zen [_Gateless Gate_]
+(http://www.ibiblio.org/zen/cgi-bin/koan-index.pl)
+Puerta Sin Puerta) de Mumon. Hay muchos ecos de Mumon en varios de los koans.
 
 Hay mucho debate sobre si Master Foo debe ser asignada a la Escuela Oriental
 (New Jersey) o a la Occidental que surgió del viaje temprano (que marcó la
@@ -63,9 +65,7 @@ debido a que los materiales originales presentan muchas dificultades en su
 reconstrucción e interpretación. Las versiones futuras pueden incluir más
 historias en tanto estas dificultades puedan superarse.
 
-[1]: El Tao de la Programación está disponible <a href="http://www.canonical.org/~kragen/tao-of-programming.html">en la Web</a>.
-[2]: <em>Unix Power Classic</em> está disponible <a href="http://mercury.ccil.org/~cowan/upc/">en la Web</a>.
-[3]: Los <em>AI Koans</em> están disponibles <a href="http://www.catb.org/~esr//jargon/html/koans.html">en la Web</a>.
-[4]: El Loginataka está disponible <a href="http://www.catb.org/~esr//faqs/loginataka.html">en la Web</a>.
-[5]: Historias de Greg el Maestro Zen está disponible <a href="http://www.gu.uwa.edu.au/users/greg/">en la Web</a>
-[6]: <em>Gateless Gate </em> está disponible <a href="http://www.ibiblio.org/zen/cgi-bin/koan-index.pl">en la Web</a>.
+[2]: http://mercury.ccil.org/~cowan/upc/
+[3]: http://www.catb.org/~esr//jargon/html/koans.html
+[4]: http://www.catb.org/~esr//faqs/loginataka.html
+[5]: http://www.gu.uwa.edu.au/users/greg/
