@@ -2,7 +2,7 @@
 layout: default
 ---
 <h2>Los koans de Master Foo</h2>
-El descubrimiento de la colección de <em>koans</rm> conocido como <em>Rootless 
+El descubrimiento de la colección de <em>koans</em> conocido como <em>Rootless
 Root</em>, aparentemente preservada por décadas en el elevado y seco aire de las
 Montañas Occidentales, ha encendido mucha controversia en los círculos eruditos.
 Son documentos auténticos que alumbran con una nueva luz la enseñanza de los
