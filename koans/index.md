@@ -32,7 +32,7 @@ efecto, es muy posible que los autores desconocidos de _Rootless Root_ y
 el _Loginataka_ sean una y la misma persona, posiblemente un pupilo del
 mismo Master Foo.
 
-Debe hacerse mención también de las [Historias de Greg el Maestro Zen]http://www.gu.uwa.edu.au/users/greg/), aunque
+Debe hacerse mención también de las [Historias de Greg el Maestro Zen](http://www.gu.uwa.edu.au/users/greg/), aunque
 las referencias a _Nine Inch Nails_ han puesto en duda su antiguedad y
 por ende es improbable que hayan influenciado a _Rootless Root_.
 
