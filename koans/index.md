@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-<h2>Los koans de Master Foo</h2>
-El descubrimiento de la colección de <em>koans</em> conocida como <em>Rootless
-Root</em>, aparentemente preservada por décadas en el elevado y seco aire de las
+## Los koans de Master Foo
+El descubrimiento de la colección de _koans_ conocida como _Rootless
+Root_, aparentemente preservada por décadas en el elevado y seco aire de las
 Montañas Occidentales, ha encendido mucha controversia en los círculos eruditos.
 Son documentos auténticos que alumbran con una nueva luz la enseñanza de los
 antiguos patriarcas de Unix? O son imitaciones ingeniosas de una época más
@@ -14,31 +14,30 @@ a nuestra era?
 Es imposible decirlo con certeza. Todas las partes en conflicto han hecho mucho
 énfasis en una supuesta similaridad con el venerable clásico, el [Tao de la
 Programación](http://www.canonical.org/~kragen/tao-of-programming.html). Pero
-<em>Rootless Root</em> es bastante diferente tanto en tono como en estilo, de
+_Rootless Root_ es bastante diferente tanto en tono como en estilo, de
 las anécdotas holgadas y poéticas de la traducción James, enfocada como está en
 la notable y enigmática figura de Master Foo.
 
-Una obra más reciente, el <em>Unix Power Classic</em>[2], traduce el Tao Te
-Ching en un estilo similar al de <em>Rootless Root</em>. <em>Unix Power
-Classic</em> puede bien haber sido influenciada por <em>Rootless Root</em>, o
+Una obra más reciente, el [_Unix Power Classic_](http://mercury.ccil.org/~cowan/upc/), traduce el Tao Te
+Ching en un estilo similar al de _Rootless Root_. _Unix Power
+Classic_ puede bien haber sido influenciada por _Rootless Root_, o
 tal vez se demuestre con investigaciones posteriores que tuvieron fuentes
 en común.
 
-Sería más apropiado buscar paralelos en los <em>AI Koans</em>[3]; en realidad,
-hay pistas textuales que sugieren que el autor de <em>Rootless Root</em> puede
-haber redactado ciertas versiones de los <em>AI Koans</em>. Estamos también en
-terreno mucho mas firme al buscar conexiones con la <em>Loginataka</em>[4]; en
-efecto, es muy posible que los autores desconocidos de <em>Rootless Root</em> y
-el <em>Loginataka<em> sean una y la misma persona, posiblemente un pupilo del
+Sería más apropiado buscar paralelos en los [_AI Koans_](http://www.catb.org/~esr//jargon/html/koans.html); en realidad,
+hay pistas textuales que sugieren que el autor de _Rootless Root_ puede
+haber redactado ciertas versiones de los _AI Koans_. Estamos también en
+terreno mucho mas firme al buscar conexiones con la [_Loginataka_](http://www.catb.org/~esr//faqs/loginataka.html); en
+efecto, es muy posible que los autores desconocidos de _Rootless Root_ y
+el _Loginataka_ sean una y la misma persona, posiblemente un pupilo del
 mismo Master Foo.
 
-Debe hacerse mención también de las Historias de Greg el Maestro Zen [5], aunque
-las referencias a <em>Nine Inch Nails</em> han puesto en duda su antiguedad y
-por ende es improbable que hayan influenciado a <em>Rootless Root</em>.
+Debe hacerse mención también de las [Historias de Greg el Maestro Zen]http://www.gu.uwa.edu.au/users/greg/), aunque
+las referencias a _Nine Inch Nails_ han puesto en duda su antiguedad y
+por ende es improbable que hayan influenciado a _Rootless Root_.
 
 Podemos decir con buen grado de confianza que el título de la obra estaba
-pensada como una referencia al clásico Zen [_Gateless Gate_]
-(http://www.ibiblio.org/zen/cgi-bin/koan-index.pl)
+pensada como una referencia al clásico Zen [_Gateless Gate_](http://www.ibiblio.org/zen/cgi-bin/koan-index.pl)
 Puerta Sin Puerta) de Mumon. Hay muchos ecos de Mumon en varios de los koans.
 
 Hay mucho debate sobre si Master Foo debe ser asignada a la Escuela Oriental
@@ -60,12 +59,7 @@ Al final, lo único que podemos hacer es tomar estas historias didácticas en su
 propios términos, y extraer los granos de sabiduría que puedan encontrarse en
 ellas.
 
-La redacción de <em>Rootless Root</em> es un trabajo aún inconcluso y en progreso
+La redacción de _Rootless Root_ es un trabajo aún inconcluso y en progreso
 debido a que los materiales originales presentan muchas dificultades en su
 reconstrucción e interpretación. Las versiones futuras pueden incluir más
 historias en tanto estas dificultades puedan superarse.
-
-[2]: http://mercury.ccil.org/~cowan/upc/
-[3]: http://www.catb.org/~esr//jargon/html/koans.html
-[4]: http://www.catb.org/~esr//faqs/loginataka.html
-[5]: http://www.gu.uwa.edu.au/users/greg/
