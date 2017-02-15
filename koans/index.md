@@ -12,31 +12,32 @@ Thompson, Ritchie, y McIlroy para predicar doctrinas que evolucionaron más cerc
 a nuestra era?
 
 Es imposible decirlo con certeza. Todas las partes en conflicto han hecho mucho
-énfasis en una supuesta similaridad con el venerable clásico, el Tao de la
-Programación [1]{#foot1}. Pero _Rootless Root_ es bastante diferente tanto en tono como en estilo, de
+énfasis en una supuesta similaridad con el venerable clásico, el [Tao de la
+Programación](http://www.canonical.org/~kragen/tao-of-programming.html). Pero
+_Rootless Root_ es bastante diferente tanto en tono como en estilo, de
 las anécdotas holgadas y poéticas de la traducción James, enfocada como está en
 la notable y enigmática figura de Master Foo.
 
-Una obra más reciente, el _Unix Power Classic_ [2] {#foot2}, traduce el Tao Te
+Una obra más reciente, el [_Unix Power Classic_](http://mercury.ccil.org/~cowan/upc/), traduce el Tao Te
 Ching en un estilo similar al de _Rootless Root_. _Unix Power
 Classic_ puede bien haber sido influenciada por _Rootless Root_, o
 tal vez se demuestre con investigaciones posteriores que tuvieron fuentes
 en común.
 
-Sería más apropiado buscar paralelos en los _AI Koans_ [3]{#foot3}; en realidad,
+Sería más apropiado buscar paralelos en los [_AI Koans_](http://www.catb.org/~esr//jargon/html/koans.html); en realidad,
 hay pistas textuales que sugieren que el autor de _Rootless Root_ puede
 haber redactado ciertas versiones de los _AI Koans_. Estamos también en
-terreno mucho mas firme al buscar conexiones con la _Loginataka_ [4]{#foot4}; en
+terreno mucho mas firme al buscar conexiones con la [_Loginataka_](http://www.catb.org/~esr//faqs/loginataka.html); en
 efecto, es muy posible que los autores desconocidos de _Rootless Root_ y
 el _Loginataka_ sean una y la misma persona, posiblemente un pupilo del
 mismo Master Foo.
 
-Debe hacerse mención también de las Historias de Greg el Maestro Zen [5]{#foot5}, aunque
+Debe hacerse mención también de las [Historias de Greg el Maestro Zen](http://www.gu.uwa.edu.au/users/greg/), aunque
 las referencias a _Nine Inch Nails_ han puesto en duda su antiguedad y
 por ende es improbable que hayan influenciado a _Rootless Root_.
 
 Podemos decir con buen grado de confianza que el título de la obra estaba
-pensada como una referencia al clásico Zen _Gateless Gate_ [6]{#foot6}
+pensada como una referencia al clásico Zen [_Gateless Gate_](http://www.ibiblio.org/zen/cgi-bin/koan-index.pl)
 Puerta Sin Puerta) de Mumon. Hay muchos ecos de Mumon en varios de los koans.
 
 Hay mucho debate sobre si Master Foo debe ser asignada a la Escuela Oriental
@@ -62,10 +63,3 @@ La redacción de _Rootless Root_ es un trabajo aún inconcluso y en progreso
 debido a que los materiales originales presentan muchas dificultades en su
 reconstrucción e interpretación. Las versiones futuras pueden incluir más
 historias en tanto estas dificultades puedan superarse.
-
-[1]: http://www.canonical.org/~kragen/tao-of-programming.html El Tao de la Programación está disponible en la Web. {#foot1}
-[2]: http://mercury.ccil.org/~cowan/upc/ _Unix Power Classic_ está disponible en la Web {#foot2}
-[3]: http://www.catb.org/~esr//jargon/html/koans.html Los _AI Koans_ están disponibles  en la Web {#foot3}
-[4]: http://www.catb.org/~esr//faqs/loginataka.html El Loginataka está disponible en la Web {#foot4}
-[5]: http://www.gu.uwa.edu.au/users/greg/ Historias de Greg el Maestro Zen está disponible en la Web {#foot5}
-[6]: http://www.ibiblio.org/zen/cgi-bin/koan-index.pl _Gateless Gate_ está disponible en la Web {#foot6}
