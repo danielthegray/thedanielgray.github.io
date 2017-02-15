@@ -18,7 +18,7 @@ Es imposible decirlo con certeza. Todas las partes en conflicto han hecho mucho
 Programación](http://www.canonical.org/~kragen/tao-of-programming.html). Pero
 _Rootless Root_ es bastante diferente tanto en tono como en estilo, de
 las anécdotas holgadas y poéticas de la traducción James, enfocada como está en
-la notable y enigmática figura de Master Foo.
+la notable y enigmática figura del Maestro Foo.
 
 Una obra más reciente, el [_Unix Power Classic_](http://mercury.ccil.org/~cowan/upc/), traduce el Tao Te
 Ching en un estilo similar al de _Rootless Root_. _Unix Power
@@ -32,7 +32,7 @@ haber redactado ciertas versiones de los _AI Koans_. Estamos también en
 terreno mucho mas firme al buscar conexiones con la [_Loginataka_](http://www.catb.org/~esr//faqs/loginataka.html); en
 efecto, es muy posible que los autores desconocidos de _Rootless Root_ y
 el _Loginataka_ sean una y la misma persona, posiblemente un pupilo del
-mismo Master Foo.
+mismo Maestro Foo.
 
 Debe hacerse mención también de las [Historias de Greg el Maestro Zen](http://www.gu.uwa.edu.au/users/greg/), aunque
 las referencias a _Nine Inch Nails_ han puesto en duda su antiguedad y
@@ -42,14 +42,14 @@ Podemos decir con buen grado de confianza que el título de la obra estaba
 pensada como una referencia al clásico Zen [_Gateless Gate_](http://www.ibiblio.org/zen/cgi-bin/koan-index.pl)
 Puerta Sin Puerta) de Mumon. Hay muchos ecos de Mumon en varios de los koans.
 
-Hay mucho debate sobre si Master Foo debe ser asignada a la Escuela Oriental
+Hay mucho debate sobre si el Maestro Foo debe ser asignado a la Escuela Oriental
 (New Jersey) o a la Occidental que surgió del viaje temprano (que marcó la
 historia) del Patriarca Thompson. Si esta pregunta no ha sido respondida, ¡es tal
-vez porque no podemos establecer que Master Foo siquiera existió! Tal vez sea
+vez porque no podemos establecer que el Maestro Foo siquiera existió! Tal vez sea
 simplemente una composición de un grupo de maestros, o de un linaje entero de
 dharmas.
 
-Incluso suponiendo que la leyenda de Master Foo se formó alrededor de la
+Incluso suponiendo que la leyenda del Maestro Foo se formó alrededor de la
 enseñanza de una persona, ¿qué podemos decir de su favorecido alumno Nubi? Nubi
 tiene todas las características del personaje arquetípico, el discípulo perfecto.
 Le recuerda a uno de las historias que rodean al seguidor favorito de Buddha,
