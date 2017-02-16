@@ -6,4 +6,5 @@ layout: default
 [Introducción del editor](introduction)
 
 [El Maestro Foo y las Diez Mil Líneas](ten-thousand)
+
 [El Maestro Foo y el _Script Kiddie_](script-kiddie)
