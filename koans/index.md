@@ -16,3 +16,5 @@ layout: default
 [El Maestro Foo Diserta sobre la Interfaz Gráfica de Usuario](gui-programmer)
 
 [El Maestro Foo y el Veterano](oldhand)
+
+[El Maestro Foo y las Herramientas _Shell_](shell-tools)
