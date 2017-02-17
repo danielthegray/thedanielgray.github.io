@@ -32,3 +32,5 @@ layout: default
 [El Maestro Foo y el MCSE](mcse)
 
 [El Maestro Foo y el Usuario Final](end-user)
+
+[El Maestro Foo y el Prodigio de la Programación](prodigy)
