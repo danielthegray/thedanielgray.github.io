@@ -28,3 +28,5 @@ layout: default
 [El Maestro Foo y el Fanático de Unix](zealot)
 
 [El Maestro Foo Diserta sobre la Naturaleza de Unix](unix-nature)
+
+[El Maestro Foo y el MCSE](mcse)
