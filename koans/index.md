@@ -30,3 +30,5 @@ layout: default
 [El Maestro Foo Diserta sobre la Naturaleza de Unix](unix-nature)
 
 [El Maestro Foo y el MCSE](mcse)
+
+[El Maestro Foo y el Usuario Final](end-user)
