@@ -26,3 +26,5 @@ layout: default
 [El Maestro Foo Diserta sobre Volver a Windows](returning)
 
 [El Maestro Foo y el Fanático de Unix](zealot)
+
+[El Maestro Foo Diserta sobre la Naturaleza de Unix](unix-nature)

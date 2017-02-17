@@ -10,7 +10,7 @@ El maestro Foo instruía a sus estudiantes:
 
 "Sin embargo, hay otra línea de pensamiento dharmático (ejemplificada por el gran mantra del Patriarca Thompson 'En caso de duda, usa la fuerza bruta', y varios sutras acerca del valor de abarcar el 90% de los casos ahora, que el 100% después) que enfatiza la robustez y la simplicidad de la implementación."
 
-"Ahora díganme: ¿qué programas tienen la naturaleza Unix?"
+"Ahora díganme: ¿qué programas tienen la naturaleza de Unix?"
 
 Después de un periodo de silencio, Nubi comentó:
 
@@ -22,7 +22,7 @@ Después de un periodo de silencio, Nubi comentó:
 
 El maestro Foo asintió con la cabeza.
 
-"Por otro lado, es algo conocido que los algoritmos complejos son frágiles. Además, cada intento de cubrir un caso excepcional tiende a interactuar tanto con los algoritmos centrales del programa como con el código que cubre otros casos de esa naturaleza."
+"Por otro lado, es algo conocido que los algoritmos complejos son frágiles. Además, cada intento de cubrir un caso excepcional tiende a interactuar tanto con los algoritmos centrales del programa como con el código que cubre otros casos de ese tipo."
 
 "Así, intentar cubrir todos los casos extremos por adelantado, garantizando 'simplicidad de descripción' puede en realidad producir código que por demás complicado y frágil, o que, plagado de _bugs_, nunca sea liberado al público. ¿Ese ciertamente no es el Camino de Unix, no?"
 
