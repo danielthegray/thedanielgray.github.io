@@ -22,3 +22,5 @@ layout: default
 [El Maestro Foo y el Novato Nervioso](nervous)
 
 [El Maestro Foo y el Reclutador](recruiter)
+
+[El Maestro Foo Diserta sobre Volver a Windows](returning)
