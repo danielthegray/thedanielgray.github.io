@@ -20,3 +20,5 @@ layout: default
 [El Maestro Foo y las Herramientas _Shell_](shell-tools)
 
 [El Maestro Foo y el Novato Nervioso](nervous)
+
+[El Maestro Foo y el Reclutador](recruiter)
