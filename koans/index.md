@@ -24,3 +24,5 @@ layout: default
 [El Maestro Foo y el Reclutador](recruiter)
 
 [El Maestro Foo Diserta sobre Volver a Windows](returning)
+
+[El Maestro Foo y el Fanático de Unix](zealot)
