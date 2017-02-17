@@ -18,13 +18,13 @@ Después de un periodo de silencio, Nubi comentó:
 
 "Una implementación simple muy probablemente carecerá de lógica para casos extremos/excepcionales, como agotamiento de recursos, o no cerrar una _race window_, o un _timeout_ durante una transacción no terminada."
 
-"Cuando esos casos se presenten, el comportamiento del software se tornará irregular y difícil. ¿Ese ciertamente no es el Camino Unix, no?"
+"Cuando esos casos se presenten, el comportamiento del software se tornará irregular y difícil. ¿Ese ciertamente no es el Camino de Unix, no?"
 
 El maestro Foo asintió con la cabeza.
 
 "Por otro lado, es algo conocido que los algoritmos complejos son frágiles. Además, cada intento de cubrir un caso excepcional tiende a interactuar tanto con los algoritmos centrales del programa como con el código que cubre otros casos de esa naturaleza."
 
-"Así, intentar cubrir todos los casos extremos por adelantado, garantizando 'simplicidad de descripción' puede en realidad producir código que por demás complicado y frágil, o que, plagado de _bugs_, nunca sea liberado al público. ¿Ese ciertamente no es el Camino Unix, no?"
+"Así, intentar cubrir todos los casos extremos por adelantado, garantizando 'simplicidad de descripción' puede en realidad producir código que por demás complicado y frágil, o que, plagado de _bugs_, nunca sea liberado al público. ¿Ese ciertamente no es el Camino de Unix, no?"
 
 El maestro Foo asintió con la cabeza.
 
