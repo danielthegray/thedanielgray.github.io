@@ -1,3 +1,7 @@
+html {
+	background-color: black;
+	color: #eaeaea;
+}
 .header {
 	font-family: 'Inconsolata', monospace;
 	width: 100%;
