@@ -1,5 +1,6 @@
 ---
 layout: default
+custom_head: <style>.c0{color:#000}.c00a{color:#00a}.c0a0{color:#0a0}.c0aa{color:#0aa}.c5{color:#555}.c55f{color:#55f}.c5ff{color:#5ff}.ca00{color:#a00}.ca0a{color:#a0a}.ca50{color:#a50}.ca{color:#aaa}.cf55{color:#f55}.cf5f{color:#f5f}.cff5{color:#ff5}.cf{color:#fff}.b0{background-color:#000}.b00a{background-color:#00a}.b0aa{background-color:#0aa}.b5{background-color:#555}.b55f{background-color:#55f}.ba00{background-color:#a00}.ba0a{background-color:#a0a}.ba50{background-color:#a50}.ba{background-color:#aaa}.bf55{background-color:#f55}.bf5f{background-color:#f5f}.bff5{background-color:#ff5}.bf{background-color:#fff}</style>
 ---
 
 # Who is this guy?
