@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: koan
 ---
 ## El Maestro Foo y el Veterano
 _(tomado de <http://catb.org/esr/writings/unix-koans/oldhand.html> y traducido el día 2017-02-17)_

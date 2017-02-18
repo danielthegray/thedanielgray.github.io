@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: koan
 ---
 ## El Maestro Foo Diserta sobre los Dos Caminos
 _(tomado de <http://catb.org/esr/writings/unix-koans/two_paths.html> y traducido el día 2017-02-17)_

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: koan
 ---
 ## El Maestro Foo Diserta sobre la Naturaleza de Unix
 _(tomado de <http://catb.org/esr/writings/unix-koans/unix-nature.html> y traducido el día 2017-02-18)_

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: koan
 ---
 ## Introducción del editor
 _(tomado de <http://catb.org/esr/writings/unix-koans/introduction.html> y traducido el día 2017-02-15)_

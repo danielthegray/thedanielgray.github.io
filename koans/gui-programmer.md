@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: koan
 ---
 ## El Maestro Foo Diserta sobre la Interfaz Gráfica de Usuario
 _(tomado de <http://catb.org/esr/writings/unix-koans/gui-programmer.html> y traducido el día 2017-02-17)_

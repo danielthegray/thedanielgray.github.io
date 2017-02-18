@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: koan
 ---
 ## El Maestro Foo y el MCSE
 _(tomado de <http://catb.org/esr/writings/unix-koans/mcse.html> y traducido el día 2017-02-18)_

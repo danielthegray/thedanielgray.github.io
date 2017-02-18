@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: koan
 ---
 ## El Maestro Foo y el Novato Nervioso
 _(tomado de <http://catb.org/esr/writings/unix-koans/nervous.html> y traducido el día 2017-02-17)_

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: koan
 ---
 ## El Maestro Foo y el _Script Kiddie_
 _(tomado de <http://catb.org/esr/writings/unix-koans/script-kiddie.html> y traducido el día 2017-02-16)_

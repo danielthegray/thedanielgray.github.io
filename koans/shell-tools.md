@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: koan
 ---
 ## El Maestro Foo y las Herramientas _Shell_
 _(tomado de <http://catb.org/esr/writings/unix-koans/shell-tools.html> y traducido el día 2017-02-17)_

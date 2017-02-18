@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: koan
 ---
 ## El Maestro Foo y las Diez Mil Líneas
 _(tomado de <http://catb.org/esr/writings/unix-koans/ten-thousand.html> y traducido el día 2017-02-16)_

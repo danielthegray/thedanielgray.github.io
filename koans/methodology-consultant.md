@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: koan
 ---
 ## El Maestro Foo y el Metodólogo
 _(tomado de <http://catb.org/esr/writings/unix-koans/methodology-consultant.html> y traducido el día 2017-02-17)_

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: koan
 ---
 ## El Maestro Foo y el Prodigio de la Programación
 _(tomado de <http://catb.org/esr/writings/unix-koans/prodigy.html> y traducido el día 2017-02-18)_
