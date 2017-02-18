@@ -33,10 +33,10 @@ h1,h2,h3,h4,h5,h6 {
 	width: 100%;
 }
 .back-eq {
-	background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' version='1.1' height='10pt' width='7pt'><text x='0' y='10' fill='#eaeaea' font-size='15'>=</text></svg>");
+	background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' version='1.1' height='10pt' width='7pt'><text x='0' y='10' fill='%23eaeaea' font-size='15'>=</text></svg>");
 }
 .back-dash {
-	background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' version='1.1' height='10pt' width='7pt'><text x='0' y='10' fill='#eaeaea' font-size='15'>-</text></svg>");
+	background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' version='1.1' height='10pt' width='7pt'><text x='0' y='10' fill='%23eaeaea' font-size='15'>-</text></svg>");
 }
 .page {
 	font-family: 'Inconsolata', monospace;
