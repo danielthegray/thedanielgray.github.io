@@ -34,3 +34,5 @@ layout: default
 [El Maestro Foo y el Usuario Final](end-user)
 
 [El Maestro Foo y el Prodigio de la Programación](prodigy)
+
+[El Maestro Foo y el Diseñador de Hardware](hardware-designer)
