@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: cv
 ---
 
 # Who is this guy?
