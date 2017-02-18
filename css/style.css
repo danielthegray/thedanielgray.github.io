@@ -14,6 +14,12 @@ h1,h2,h3,h4,h5,h6 {
 	font-family: 'Merriweather', serif;
 	width: 100%;
 }
+a {
+	color: #30dd30;
+}
+a:visited {
+	color: #50e050;
+}
 .link {
 	text-align: left;
 	color: green;
