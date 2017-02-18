@@ -16,7 +16,7 @@ Unix que conoce todo los misterios más centrales. Como yo en Windows; yo soy un
 MCSE, y tengo muchas otras certificaciones de conocimiento no comunes en el mundo.
 Conozco incluso las claves de registro más obscuras de memoria. Puedo decirle
 todo acerca de la API de Windows, sí, secretos que incluso los de Redmond solo
-recuerdan a medias. ¿Cual es el conocimiento arcano que le dan a usted su poder?"
+recuerdan a medias. ¿Cual es el conocimiento arcano que le da a usted su poder?"
 
 El maestro Foo dijo: "No los tengo. Nada está oculto, nada es revelado".
 

@@ -4,12 +4,12 @@ layout: default
 ## El Maestro Foo y el Reclutador
 _(tomado de <http://catb.org/esr/writings/unix-koans/recruiter.html> y traducido el día 2017-02-17)_
 
-Un reclutador técnico, habiendo descubierto que los caminos de los hackers Unix
+Un reclutador técnico, habiendo descubierto que los caminos de los _hackers_ Unix
 eran extraños para él, buscó una audiencia con el Maestro Foo para aprender más
 acerca del Camino. El maestro Foo se encontró con el reclutador en las oficinas
 de Recursos Humanos de una gran empresa.
 
-El reclutador dijo, "He observado que los hackers Unix fruncen el entrecejo o se
+El reclutador dijo, "He observado que los _hackers_ Unix fruncen el entrecejo o se
 molestan cuando les pregunto cuántos años de experiencia tienen en un nuevo
 lenguaje de programación. ¿Por qué ocurre esto?"
 
