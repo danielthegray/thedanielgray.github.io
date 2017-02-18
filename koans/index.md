@@ -1,5 +1,5 @@
 ---
-layout: koan
+layout: default
 ---
 ## Los koans del Maestro Foo
 

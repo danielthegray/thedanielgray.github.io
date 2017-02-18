@@ -1,9 +1,9 @@
 html {
 	background-color: black;
 	color: #eaeaea;
+	font-family: 'Inconsolata', monospace;
 }
 .header {
-	font-family: 'Inconsolata', monospace;
 	width: 100%;
 	text-align: center;
 }
