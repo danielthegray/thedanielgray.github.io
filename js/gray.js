@@ -36,9 +36,9 @@ var animateTypeText = function() {
 	var elem = this;
 	var typeArea = document.createElement("span");
 	typeArea.setAttribute("class", "link link-subtext");
-	elem.insertBefore(typeArea, elem.lastChild);
-	elem.insertBefore(typeArea, elem.lastChild);
-	setTimeout(addLetter(elem), 100);
+	var lastBRelement = elem.querySelector("br:last-of-type");
+	elem.insertBefore(typeArea, lastBRelement);
+	setTimeout(addLetter(elem), 40);
 };
 var addLetter = function(elem) {
 //	if (elem.parentElement.querySelector(":hover") === elem) {
@@ -52,7 +52,7 @@ var addLetter = function(elem) {
 		subtextSpan.textContent = currentText +
 			descrText.slice(currentPos, currentPos+1) + "\u258B";
 		if (currentText.length < descrText.length) {
-			setTimeout(function(){addLetter(elem)}, 100);
+			setTimeout(function(){addLetter(elem)}, 40);
 		}
 //	}
 };
