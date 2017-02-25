@@ -30,7 +30,7 @@ var removeClass = function(elem, rem_class) {
 var animateTypeText = function() {
 	var elem = this;
 	var typeArea = document.createElement("span");
-	typeArea.setAttribute("class", "link link-subtext");
+	typeArea.setAttribute("class", "link-subtext");
 	elem.insertBefore(typeArea, elem.lastChild);
 	setTimeout(addLetter(elem), 40);
 };

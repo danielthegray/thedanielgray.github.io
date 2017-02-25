@@ -29,6 +29,12 @@ a:visited {
 	height: 3em;
 	width: 33%;
 }
+.link-subtext {
+	text-align: left;
+	color: green;
+	float: left;
+	text-decoration:none;
+}
 .link-descr {
 	visibility: hidden;
 }
