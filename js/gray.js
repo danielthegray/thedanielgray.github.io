@@ -30,21 +30,22 @@ var removeClass = function(elem, rem_class) {
 var animateTypeText = function() {
 	var elem = this;
 	var typeArea = document.createElement("span");
-	typeArea.setAttribute("class", "link-subtext");
+	typeArea.setAttribute("class", "link link-subtext");
 	elem.insertBefore(typeArea, elem.lastChild);
 	setTimeout(addLetter(elem), 100);
 };
 var addLetter = function(elem) {
-	if (elem.parentElement.querySelector(":hover") === elem) {
+//	if (elem.parentElement.querySelector(":hover") === elem) {
 		var subtextSpan = elem.querySelector(".link-subtext");
 		var descrText = elem.querySelector(".link-descr").textContent;
 		var currentText = subtextSpan.textContent.slice(0,-1);
+		var currentPos = currentText.length;
 		subtextSpan.textContent = currentText +
-			descrText.slice(currentText.length,1) + "\u2588";
+			descrText.slice(currentPos, currentPos+1) + "\u2589";
 		if (currentText.length < descrText.length) {
-			setTimeout(addLetter(elem), 100);
+			setTimeout(function(){addLetter(elem)}, 100);
 		}
-	}
+//	}
 };
 var destroyTypeText = function() {
 	var elem = this;
