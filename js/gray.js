@@ -31,7 +31,7 @@ var animateTypeText = function() {
 	var elem = this;
 	var typeArea = document.createElement("span");
 	typeArea.setAttribute("class", "link-subtext");
-	elem.insertBefore(typeArea, elem.lastChild);
+	elem.insertBefore(typeArea, elem.querySelector("span:last-of-type"));
 	setTimeout(addLetter(elem), 40);
 };
 var addLetter = function(elem) {
