@@ -29,6 +29,9 @@ a:visited {
 	height: 3em;
 	width: 33%;
 }
+.link > a {
+	clear: both;
+}
 .link-subtext {
 	text-align: left;
 	color: green;
