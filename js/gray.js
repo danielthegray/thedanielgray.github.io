@@ -2,8 +2,8 @@ document.addEventListener("DOMContentLoaded", function(event) {
 	if (/android|blackberry|iPhone|iPad|iPod|webOS/i.test(navigator.userAgent) === false) {
 		var linkDescrs = document.querySelectorAll('.link-descr');
 		Array.prototype.forEach.call(linkDescrs, function(el, i) {
-			el.parentNode.addEventListener('mouseover', animateTypeText);
-			el.parentNode.addEventListener('mouseout', destroyTypeText);
+			el.parentNode.addEventListener('mouseenter', animateTypeText);
+			el.parentNode.addEventListener('mouseleave', destroyTypeText);
 			var lastBRelement = el.parentNode.querySelector("br:last-child");
 			if (lastBRelement !== null) {
 				el.parentNode.removeChild(lastBRelement);
