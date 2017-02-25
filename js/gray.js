@@ -2,8 +2,8 @@ document.addEventListener("DOMContentLoaded", function(event) {
 	if (/android|blackberry|iPhone|iPad|iPod|webOS/i.test(navigator.userAgent) === false) {
 		var linkDescrs = document.querySelectorAll('.link-descr');
 		Array.prototype.forEach.call(linkDescrs, function(el, i) {
-			el.parentNode.addEventListener('mouseover', animateTypeText(el));
-			el.parentNode.addEventListener('mouseout', destroyTypeText(el));
+			el.parentNode.addEventListener('mouseover', animateTypeText);
+			el.parentNode.addEventListener('mouseout', destroyTypeText);
 		});
 	} else {
 		var linkDescrs = document.querySelectorAll('.link-descr');
@@ -27,7 +27,8 @@ var removeClass = function(elem, rem_class) {
 	var newClass = origClass.replace(remClassRegex, replaceString);
 	elem.setAttribute("class", newClass);
 };
-var animateTypeText = function(elem) {
+var animateTypeText = function() {
+	var elem = this;
 	var typeArea = document.createElement("span");
 	typeArea.setAttribute("class", "link-subtext");
 	elem.insertBefore(typeArea, elem.lastChild);
@@ -45,6 +46,7 @@ var addLetter = function(elem) {
 		}
 	}
 };
-var destroyTypeText = function(elem) {
+var destroyTypeText = function() {
+	var elem = this;
 	elem.removeChild(elem.querySelector('.link-subtext'));
 };
