@@ -1,0 +1,3 @@
+.link:hover > .link-descr {
+	visibility: visible;
+}
