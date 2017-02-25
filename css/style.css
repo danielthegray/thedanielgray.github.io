@@ -33,6 +33,7 @@ a:visited {
 	text-align: left;
 	color: green;
 	float: left;
+	clear:both;
 	text-decoration:none;
 }
 .link-descr {
