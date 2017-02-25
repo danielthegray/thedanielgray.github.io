@@ -4,11 +4,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 		Array.prototype.forEach.call(linkDescrs, function(el, i) {
 			el.parentNode.addEventListener('mouseenter', animateTypeText);
 			el.parentNode.addEventListener('mouseleave', destroyTypeText);
-			var lastBRelement = el.parentNode.querySelector("br:last-child");
-			if (lastBRelement !== null) {
-				el.parentNode.removeChild(lastBRelement);
-			}
-			el.parentNode.insertBefore(document.createElement("br"), el);
 		});
 	} else {
 		var linkDescrs = document.querySelectorAll('.link-descr');
@@ -36,8 +31,7 @@ var animateTypeText = function() {
 	var elem = this;
 	var typeArea = document.createElement("span");
 	typeArea.setAttribute("class", "link link-subtext");
-	var lastBRelement = elem.querySelector("br:last-of-type");
-	elem.insertBefore(typeArea, lastBRelement);
+	elem.insertBefore(typeArea, elem.lastChild);
 	setTimeout(addLetter(elem), 40);
 };
 var addLetter = function(elem) {
