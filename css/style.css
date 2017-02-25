@@ -37,6 +37,9 @@ a:visited {
 }
 .link-descr {
 	visibility: hidden;
+	text-align: left;
+	color: green;
+	float: left;
 }
 .sep {
 	display: inline-block;
