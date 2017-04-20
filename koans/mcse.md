@@ -12,7 +12,7 @@ El maestro Foo dijo: "Es bueno que busques sabiduría. Pero en el camino de Unix
 no hay secretos".
 
 El administrador le miró perplejo. "Pero se dice que usted es un gran guru de
-Unix que conoce todo los misterios más centrales. Como yo en Windows; yo soy un
+Unix que conoce todos los misterios más centrales. Como yo en Windows; yo soy un
 MCSE, y tengo muchas otras certificaciones de conocimiento no comunes en el mundo.
 Conozco incluso las claves de registro más obscuras de memoria. Puedo decirle
 todo acerca de la API de Windows, sí, secretos que incluso los de Redmond solo
