@@ -15,7 +15,7 @@ I like Unix/Linux, shell tools, networking, and learning new things every day.
 
 I am still kind of getting the hang of all the web stuff... so bear with me!
 And feel free to send any suggestions to.... uh.... I don't want to put my email
-in plain text here just yet. :) I'll update it hear when I figure something out.
+in plain text here just yet. :) I'll update it here when I figure something out.
 
 I studied for 4.5 years in Bolivia (at the Universidad Privada Boliviana) where
 I got the equivalent of a Bachelor's degree in Computer Science. (2009-2013)
