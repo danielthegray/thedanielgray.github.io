@@ -22,11 +22,12 @@ El maestro Foo respondió:
 Unix no es Unix. OpenGroup tiene verdaderamente dominio sobre el nombre de Unix,
 pero el nombre de Unix no es Unix."
 
-"¿Cual es, entonces, la naturaleza de Unix?" preguntó el estudiante.
+"¿Cuál es, entonces, la naturaleza de Unix?" preguntó el estudiante.
 
 El maestro Foo respondió:
 
-"No código. No nombre. No mente. No cosas. Siempre cambiando, mas nunca cambiando."
+"No es código. No es nombre. No es mente. No consiste de cosas.
+Siempre cambia, mas nunca cambia."
 
 "La naturaeza de Unix es simple y vacía. Porque es simple y vacía, es más
 poderosa que un tifón".
